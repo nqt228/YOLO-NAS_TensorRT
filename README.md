@@ -74,7 +74,7 @@ On your target system:
 #### Inference
 Build
 ``` shell
-mkir build && cd build
+mkdir build && cd build
 cmake ..
 make
 ```
