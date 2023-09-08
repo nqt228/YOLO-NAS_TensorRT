@@ -62,7 +62,7 @@ $ python3 export_yolonas.py
 --topk 100 /
 --batch 1
 ```
-NOTE: Change `yolo-nas.pth` to the location of your model.   
+NOTE: Change `classes` based on your dataset and `yolo-nas.pth` to the location of your model.   
 ## Export Engine by Trtexec Tools
 On your target system:
 
