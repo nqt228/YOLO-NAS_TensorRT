@@ -88,4 +88,5 @@ Description of arguments
 - `test image` : The image path.
 
 The result is stored in the same directory name `result.jpg`
-
+## REFERENCE
+[1] https://github.com/triple-Mu/YOLOv8-TensorRT.git
